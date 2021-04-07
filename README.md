@@ -10,4 +10,4 @@ Repro steps:
 
     Can Snapshot debugger provide any detail of this 500 error?
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F4lowtherabbit%2FLabSnapshotDebugger%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F4lowtherabbit%2FLabSnapshotDebugger%2Fmaster%2Fazuredeploy.json){:target="_blank"}
